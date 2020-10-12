@@ -1,6 +1,6 @@
 # Site settings
 title: cs Blog
-SEOTitle: cs的博客 | cs Blog
+SEOTitle: 褚世的博客 | cs Blog
 header-img: img/home-bg.jpg
 email: chushi2015@outlook.com
 description: "My Blog"
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "大道至简，衍化至繁"
-sidebar-avatar: /img/avatar_cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_home.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
