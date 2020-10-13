@@ -1,11 +1,11 @@
 # Site settings
-title: cs Blog
-SEOTitle: 褚世的博客 | cs Blog
+title: 岁月无言
+SEOTitle: 岁月无言的博客 |  SereneYear's Blog
 header-img: img/home-bg.jpg
 email: chushi2015@outlook.com
 description: "My Blog"
 keyword: ""
-url: "https://sywy1.github.io/"              # your host, for absolute URL
+url: "https://sywy0501.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     chu小世
 zhihu_username:     fan-er-liao-42
-github_username:    sywy1
+github_username:    sywy0501
 #twitter_username:   cs
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
