@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     chu小世
+#weibo_username:     chu小世
 zhihu_username:     fan-er-liao-42
 github_username:    sywy1
 #twitter_username:   cs
