@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     chu小世
-zhihu_username:     fan-er-liao-42
+#zhihu_username:     fan-er-liao-42
 github_username:    sywy0501
 #twitter_username:   cs
 #facebook_username:  huxpro
