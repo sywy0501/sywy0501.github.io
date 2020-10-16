@@ -4,7 +4,7 @@ title: "使用RestTemplate调用其他服务接口时,加上注解@LoadBalanced�
 subtitle: ""
 date: 2020-10-16 20:00:00
 author: "cs"
-header-img: "img/2020-10-16-post-bg.jpg"
+header-img: "img/post-bg-2020-10-16.jpg"
 tags: 
 - Java
 - SpringCloud
